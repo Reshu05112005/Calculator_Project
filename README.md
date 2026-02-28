@@ -107,4 +107,4 @@ Replace eval() with a safer expression parser
 
 ## 👩‍💻 Author
 
-Developed as a Python GUI learning project.
+Shaik Reshma.
